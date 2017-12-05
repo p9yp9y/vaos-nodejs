@@ -19,6 +19,7 @@
 			<artifactId>vaos-dev</artifactId>
 			<version>0.0.7-SNAPSHOT</version>
 		</dependency>
+
 	</dependencies>
 
 	<distributionManagement>
@@ -28,7 +29,7 @@
 			<url>https://api.bintray.com/maven/p9yp9y/vaos/vaos-hello-app/;publish=1</url>
 		</repository>
 	</distributionManagement>
-
+	
 	<build>
 		<plugins>
 			<plugin>
